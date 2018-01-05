@@ -1,0 +1,9 @@
+Building Taggchain
+
+See doc/readme-qt.rst for instructions on building Taggchain-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Taggchain.
+
+See doc/build-*.txt for instructions on building taggchaind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Taggchain.
